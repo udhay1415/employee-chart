@@ -1,0 +1,13 @@
+.flow {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__loading {
+    color: #000;
+    font-size: 2rem;
+  }
+}
+
